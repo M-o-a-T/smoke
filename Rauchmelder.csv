@@ -1,0 +1,12 @@
+"Bill of Material from rauchmelder.sch, 25 parts, grouped by values, as of 1/30/13 1:05 PM",,,,,,,,,,,,,,,,,,
+Part,Value,Device,Package,Description,Description2,Qty,Place_YES/NO,Povided_by_customer_YES/NO,Distributor,Ordernumber,Weblink,Remarks_customer,Unit_price,Total_price,REMARKS_BETA,OPTION1,OPTION2,OPTION3
+"C1, C2",1u,C-EUC0603,C0603,"CAPACITOR, European symbol", ,2,YES,NO,RS,749-2033, , , , , , , , 
+"C3, C4",100n,C-EUC0603,C0603,"CAPACITOR, European symbol", ,2,YES,NO,RS,698-3232, , , , , , , , 
+D1,3V,ZENER-DIODESOD80C,SOD80C,Z-Diode, ,1,YES,NO,RS,710-4339, , , , , , , , 
+IC1,MCP1703CB,MCP1703CB,SOT23,"250 mA, 16V, Low Quiescent Current LDO Regulator", ,1,YES,NO,RS,669-4907, , , , , , , , 
+IC2,MEGA8-MITQFP,MEGA8-MITQFP,TQFP32-08,MICROCONTROLLER, ,1,YES,NO,RS,719-4039, , , , , , , , 
+IC3,RFM12B,RFM12B,RFM12B,Radio, ,1,YES,NO,RS,731-2785, , , , , , , , 
+"Q1, Q4, Q5",2N7002_SMD,2N7002_SMD,SOT23,N-Channel MOSFET, ,3,YES,NO,RS,708-2396, , , , , , , , 
+"Q2, Q3",NX3008,NX3008,SOT23,P-channel MOSFET, ,2,YES,NO,RS,669-7376, , , , , , , , 
+"R2, R3, R4, R6, R7, R8",100k,R-EU_R0603,R0603,"RESISTOR, European symbol","RESISTOR, 0.1W, 1%",6,YES,NO,RS,697-9438,http://de.rs-online.com/web/p/products/6979438/?searchTerm=697-9438&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D424552267573743D3639372D393433382677633D4E4F4E4526, , , , , , , 
+R5,10k,R-EU_R0603,R0603,"RESISTOR, European symbol","RESISTOR, 0.1W, 1%",1,YES,NO,RS,697-9325,http://uk.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=6979325, , , , , , , 
